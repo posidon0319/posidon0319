@@ -1,5 +1,5 @@
 👋 Merhaba, ben @posidon0319.
-- 👀 C ve PHP programlama dilleriyle ilgileniyorum.
+- 👀 C,java ve PHP programlama dilleriyle ilgileniyorum.
 - 🌱 Şu anda C,Java ve PHP'de derinlemesine bilgi edinmekteyim.
 - 💞️ C,Java ve PHP ile ilgili projelerde işbirliği yapmaktan mutluluk duyarım.
 - 📫 Benimle iletişime geçmek için e-posta adresim: faruk_degirmi@hotmail.com .
