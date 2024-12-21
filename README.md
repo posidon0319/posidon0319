@@ -1,7 +1,7 @@
 👋 Merhaba, ben @posidon0319.
 - 👀 C ve PHP programlama dilleriyle ilgileniyorum.
-- 🌱 Şu anda C ve PHP'de derinlemesine bilgi edinmekteyim.
-- 💞️ C ve PHP ile ilgili projelerde işbirliği yapmaktan mutluluk duyarım.
+- 🌱 Şu anda C,Java ve PHP'de derinlemesine bilgi edinmekteyim.
+- 💞️ C,Java ve PHP ile ilgili projelerde işbirliği yapmaktan mutluluk duyarım.
 - 📫 Benimle iletişime geçmek için e-posta adresim: faruk_degirmi@hotmail.com .
 - 😄 Zamirlerim: O/Onun.
 - ⚡ Eğlenceli gerçek: PHP'nin aslında "Hypertext Preprocessor" ifadesinin kısaltması olduğunu biliyor muydunuz?
